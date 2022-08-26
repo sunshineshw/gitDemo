@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 #! -*- coding:utf-8 -*-
 
+def fixBug(args):
+    print("修复bug")
+    pass
+
 def getData(name,id):
     pass
 
