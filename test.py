@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #! -*- coding:utf-8 -*-
 
-def getData():
+def getData(name,id):
     pass
 
 def getCookie():
