@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 #! -*- coding:utf-8 -*-
 
+def devProcess(args):
+    print("商城开发100%")
+    pass
+
 def branchDev():
     pass
 
